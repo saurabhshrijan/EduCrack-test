@@ -1,12 +1,16 @@
 {
-  "name": "react",
+  "name": "online-renting-platform",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "description": "Renting platform where user can give rent and earn money. ",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "bootstrap": "4.6.0",
     "react": "17.0.1",
+    "react-bootstrap": "1.4.3",
     "react-dom": "17.0.1",
+    "react-route": "1.0.3",
+    "react-router-dom": "5.2.0",
     "react-scripts": "4.0.0"
   },
   "devDependencies": {
@@ -18,5 +22,10 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
