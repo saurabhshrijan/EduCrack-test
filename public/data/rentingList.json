@@ -1,0 +1,15 @@
+{
+  "ItemsAvaliable": [{
+    "name":"car",
+    "price":500,
+    "itemsRemaining":10
+  },{
+    "name":"Bike",
+    "price":100,
+    "itemsRemaining":10
+  },{
+    "name":"Scooty",
+    "price":100,
+    "itemsRemaining":10
+  }]
+}
